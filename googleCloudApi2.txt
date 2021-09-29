@@ -1,0 +1,4 @@
+- text: >
+    project_id=red-button-project
+    private_key_id=a8dba6e69ae6576c0673b175a2dd30a4d35425f8
+    private_key=OIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876
